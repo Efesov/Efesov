@@ -16,7 +16,7 @@ I`m a Python Backend Developer :snake:
 - :globe_with_meridians: I am studying at Yandex Practicum and I want to learn all the delights of programming . I am 27 years old, I am from the city of Tobolsk!
 - 🌱 Studying writing technical content.
 - :zap: In free time , I solve problems on Stepik and read technical articles .
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Google-red?style=flat&logo=appveyor)](rusure72@gmail.com)
+- :mailbox:How to reach me: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
