@@ -5,7 +5,7 @@
   <a href="https://vk.com/efesov">
     <img src="https://img.shields.io/badge/VK-%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=appveyor"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="@rUsure009">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=appveyor"/>
   </a>
 </div>
